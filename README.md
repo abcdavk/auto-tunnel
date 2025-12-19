@@ -22,5 +22,5 @@ To run: `go run */**.go`
 
 To build: `go build -o build/auto-tunnel ./src`
 
-To run:
+To execute:
     You need config file to run this program. You can just copy the `config/tunnel.json` on the same folder of `auto-tunnel` executable. Then run `./auto-tunnel`
