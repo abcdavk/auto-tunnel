@@ -19,6 +19,7 @@ Rename `config/tunnel.json.temp` to `config/tunnel.json`. Then fill the properti
 ### Run, Build, Execute on Linux
 
 To run: `go run */**.go`
+
 To build: `go build -o build/auto-tunnel ./src`
 
 To run:
